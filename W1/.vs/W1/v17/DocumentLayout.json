@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|solutionrelative:w1_d1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d1\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|solutionrelative:w1_d1\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d1\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|solutionrelative:w1_d1\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d1\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|solutionrelative:w1_d1\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d1\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FECA4BEB-BE7F-4548-97C6-2E246C9EC332}|W1_D1\\W1_D1.csproj|solutionrelative:w1_d1\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3242615-185B-4AF8-A876-968315F6A677}|W1_D3\\W1_D3.csproj|c:\\users\\218976\\documents\\github\\back-end\\w1\\w1_d3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3242615-185B-4AF8-A876-968315F6A677}|W1_D3\\W1_D3.csproj|solutionrelative:w1_d3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,64 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Veicolo.cs",
-              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Veicolo.cs",
-              "RelativeDocumentMoniker": "W1_D1\\Veicolo.cs",
-              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Veicolo.cs",
-              "RelativeToolTip": "W1_D1\\Veicolo.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T14:36:11.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Animale.cs",
-              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Animale.cs",
-              "RelativeDocumentMoniker": "W1_D1\\Animale.cs",
-              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Animale.cs",
-              "RelativeToolTip": "W1_D1\\Animale.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T14:35:52.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Atleta.cs",
-              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Atleta.cs",
-              "RelativeDocumentMoniker": "W1_D1\\Atleta.cs",
-              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Atleta.cs",
-              "RelativeToolTip": "W1_D1\\Atleta.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T14:15:15.089Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Program.cs",
-              "RelativeDocumentMoniker": "W1_D1\\Program.cs",
-              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Program.cs",
-              "RelativeToolTip": "W1_D1\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAADAAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D3\\Program.cs",
+              "RelativeDocumentMoniker": "W1_D3\\Program.cs",
+              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D3\\Program.cs",
+              "RelativeToolTip": "W1_D3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T14:07:36.238Z",
+              "WhenOpened": "2024-06-19T12:11:57.453Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dipendente.cs",
-              "DocumentMoniker": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Dipendente.cs",
-              "RelativeDocumentMoniker": "W1_D1\\Dipendente.cs",
-              "ToolTip": "C:\\Users\\218976\\Documents\\GitHub\\Back-End\\W1\\W1_D1\\Dipendente.cs",
-              "RelativeToolTip": "W1_D1\\Dipendente.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T14:35:30.236Z"
             }
           ]
         }
